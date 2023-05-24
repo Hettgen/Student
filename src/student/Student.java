@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author hettg
+ * @author hettgen
  */
 public class Student {
 
