@@ -7,6 +7,8 @@ package student;
 /**
  *
  * @author hettgen
+ * Changes made in StefanDev branch
+ * 
  */
 public class Student {
 
